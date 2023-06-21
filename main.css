@@ -1,0 +1,100 @@
+
+.row{
+    background-color:white;
+}
+.ml-3{
+    margin: 35px ;
+}
+/*nav section*/
+
+
+
+
+.head{
+    font-size: 70px;
+    color: red;
+}
+.head1{
+   font-size:70px;
+   color: green;
+
+}
+.card:hover{
+    color:red;
+}
+
+.container{
+   background-color: hotpink;
+   color: black;
+}
+
+/*Banner section*/
+
+.carousel-inner{
+   height: 150px;
+   width: 300px;
+
+}
+
+/*Contact section*/
+
+ .section-header{
+    color: red;
+    text-align: center;
+   
+ }
+ .col-md-6{
+   margin-top: 20px;
+ }
+ .Contact1{
+   margin-left: 80px;
+   margin-top: 20px;
+ }
+ .Contact2{
+   margin-left: 80px;
+ }
+
+ .section-header{
+   color: red;
+}
+
+button{
+   background-color:green;
+   border: 5px;
+   border-radius: 10px;
+
+}
+.loading{
+   color: indianred;
+}
+
+
+.contact1{
+   margin-top: 40px;
+}
+.Contact1{
+       color:green;
+   }
+
+ 
+
+   /*footere */
+
+   #footer{
+    background-color: cadetblue;
+ }
+ .footer:hover{
+   color:red;
+ }
+ .footer{
+    color: white;
+ }
+ 
+ .fa-brands {
+    font-size: 1.6rem;
+ }
+ .link{
+    color:yellow;
+ }
+
+
