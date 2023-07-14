@@ -6,6 +6,10 @@
     margin: 35px ;
 }
 /*nav section*/
+.card{
+   padding: 10px;
+
+}
 
 
 
@@ -26,6 +30,7 @@
 .container{
    background-color: hotpink;
    color: black;
+   padding: 10px;
 }
 
 /*Banner section*/
@@ -75,7 +80,7 @@ button{
 .Contact1{
        color:green;
    }
-
+   
  
 
    /*footere */
@@ -96,5 +101,9 @@ button{
  .link{
     color:yellow;
  }
+ .credits{
+   padding: 10px;
+ }
+
 
 
